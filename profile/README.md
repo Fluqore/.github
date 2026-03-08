@@ -1,4 +1,4 @@
-# 🚀 Zyphir
+# 🚀 Fluqore
 
 Innovating digital experiences through scalable software solutions.
 
